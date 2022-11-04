@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bΧρυσό μήλο§r
+item.appleEnchanted.name=§dΜαγεμένο μήλο§r
+item.banner.illager_captain.name=§6Λάβαρο Ωρικού§r
+item.dragon_breath.name=§eΑνάσα δράκου§r
+item.elytra.name=§eΈλυτρα§r
+item.end_crystal.name=§bΚρύσταλλος του Τέλους§r
+item.experience_bottle.name=§eΜπουκάλι μαγέματος§r
+item.heart_of_the_sea.name=§eΚαρδιά της θάλασσας§r
+item.netherStar.name=§eΑστέρι Εγκάτων§r
+item.record.name=§bΜουσικός δίσκος§r
+item.skull.char.name=§eΚεφάλι§r
+item.skull.creeper.name=§eΚεφάλι Creeper§r
+item.skull.dragon.name=§eΚεφάλι δράκου§r
+item.skull.player.name=§eΚεφάλι %s§r
+item.skull.skeleton.name=§eΚρανίο σκελετού§r
+item.skull.wither.name=§eΚρανίο σκελετού Μαρασμού§r
+item.skull.zombie.name=§eΚεφάλι Ζόμπι§r
+item.totem.name=§eΤοτέμ της Αθανασίας§r
+item.banner_pattern.creeper=§eCreeper§r
+item.banner_pattern.skull=§eΝεκροκεφαλή§r
+item.banner_pattern.thing=§dΠράγμα§r
+tile.beacon.name=§bΦάρος§r
+tile.conduit.name=§bΑγωγός§r
+tile.jigsaw.name=§dΚύβος συναρμολόγησης§r
+tile.structure_block.name=§dΚύβος οικοδομήματος§r
+tile.command_block.name=§dΚύβος εντολών§r
+tile.dragon_egg.name=§dΑυγό Δράκου§r
+tile.mob_spawner.name=§dΚύβος δημιουργίας τεράτων§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,36 +2,22 @@ import os
 import sys
 import colorama
 from colorama import Fore, Style
-from rarity_table import rarity_table
+from javalike_rarity_table import rarity_table
 
 
 colorama.init()
 
 rarity_colors = {
     0: "",  # no rarity
-    1: "§7",  # common
-    2: "§a",  # uncommon
-    3: "§3",  # rare
-    4: "§d",  # unique
-    5: "§e",  # legendary
-    6: "§6§l",  # relic
+    1: "§7",  # common - light gray
+    2: "§a",  # uncommon - green
+    3: "§3",  # rare - dark aqua
+    4: "§d",  # unique - light purple
+    5: "§e",  # legendary - yellow
+    6: "§6§l",  # relic - orange bold
 }
 
-f_credits = """## This file is created by Woopertail.
-## To download or update more add-ons, visit next links:
-##
-## MCPEDL: mcpedl.com/user/woopertail/
-## Discord: discord.gg/hYtZMEfZSE 
-##
-## You able to:
-## Include this file in your add-on.
-## Modify this file, include modified file in your add-on.
-## Use this file on public servers or realms.
-## Do with this file whatever you want, in general.
-##
-## BUT
-## do not remove my credits (this text)
-## do not edit my credits (this text)"""
+f_credits = "## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/"
 
 files = input("Enter filename: ") + ".lang"
 

@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§b황금 사과§r
+item.appleEnchanted.name=§d효과부여 사과§r
+item.banner.illager_captain.name=§6우민 배너§r
+item.dragon_breath.name=§e드래곤의 숨결§r
+item.elytra.name=§e딱지날개§r
+item.end_crystal.name=§b엔더 수정§r
+item.experience_bottle.name=§e경험치 병§r
+item.heart_of_the_sea.name=§e바다의 심장§r
+item.netherStar.name=§e네더의 별§r
+item.record.name=§b음악 디스크§r
+item.skull.char.name=§e머리§r
+item.skull.creeper.name=§e크리퍼의 머리§r
+item.skull.dragon.name=§e드래곤 머리§r
+item.skull.player.name=§e%s의 머리§r
+item.skull.skeleton.name=§e스켈레톤 해골§r
+item.skull.wither.name=§e위더 스켈레톤 해골§r
+item.skull.zombie.name=§e좀비의 머리§r
+item.totem.name=§e불사의 토템§r
+item.banner_pattern.creeper=§e크리퍼 모양§r
+item.banner_pattern.skull=§e해골 모양§r
+item.banner_pattern.thing=§dMojang 로고§r
+tile.beacon.name=§b신호기§r
+tile.conduit.name=§b도관§r
+tile.jigsaw.name=§d직소 블록§r
+tile.structure_block.name=§d구조물 블록§r
+tile.command_block.name=§d커맨드 블록§r
+tile.dragon_egg.name=§d드래곤 알§r
+tile.mob_spawner.name=§d몬스터 생성기§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

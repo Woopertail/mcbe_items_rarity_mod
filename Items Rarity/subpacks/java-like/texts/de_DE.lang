@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bGoldener Apfel§r
+item.appleEnchanted.name=§dVerzauberter Apfel§r
+item.banner.illager_captain.name=§6Illager-Banner§r
+item.dragon_breath.name=§eDrachenatem§r
+item.elytra.name=§eElytren§r
+item.end_crystal.name=§bEnderkristall§r
+item.experience_bottle.name=§eErfahrungsfläschchen§r
+item.heart_of_the_sea.name=§eHerz des Meeres§r
+item.netherStar.name=§eNetherstern§r
+item.record.name=§bSchallplatte§r
+item.skull.char.name=§eKopf§r
+item.skull.creeper.name=§eCreeper-Kopf§r
+item.skull.dragon.name=§eEnderdrachenkopf§r
+item.skull.player.name=§eKopf von %s§r
+item.skull.skeleton.name=§eSkelettschädel§r
+item.skull.wither.name=§eWitherskelettschädel§r
+item.skull.zombie.name=§eZombiekopf§r
+item.totem.name=§eTotem der Unsterblichkeit§r
+item.banner_pattern.creeper=§eCreeper§r
+item.banner_pattern.skull=§eSchädel§r
+item.banner_pattern.thing=§dLogo§r
+tile.beacon.name=§bLeuchtfeuer§r
+tile.conduit.name=§bAquisator§r
+tile.jigsaw.name=§dVerbundblock§r
+tile.structure_block.name=§dKonstruktionsblock§r
+tile.command_block.name=§dBefehlsblock§r
+tile.dragon_egg.name=§dDrachenei§r
+tile.mob_spawner.name=§dMonsterspawner§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bKultainen omena§r
+item.appleEnchanted.name=§dLumottu omena§r
+item.banner.illager_captain.name=§6Pahalaislippu§r
+item.dragon_breath.name=§eLiskon henkäys§r
+item.elytra.name=§eLiitosiivet§r
+item.end_crystal.name=§bÄärikristalli§r
+item.experience_bottle.name=§eLumouspullo§r
+item.heart_of_the_sea.name=§eMerensydän§r
+item.netherStar.name=§eHornatähti§r
+item.record.name=§bMusiikkilevy§r
+item.skull.char.name=§ePää§r
+item.skull.creeper.name=§eCreeperin pää§r
+item.skull.dragon.name=§eLiskonpää§r
+item.skull.player.name=§ePää (%s)§r
+item.skull.skeleton.name=§eLuurangon pääkallo§r
+item.skull.wither.name=§eHornaluurangon pääkallo§r
+item.skull.zombie.name=§eZombin pää§r
+item.totem.name=§eEpäkuoleman toteemi§r
+item.banner_pattern.creeper=§eCreeper§r
+item.banner_pattern.skull=§eKallo§r
+item.banner_pattern.thing=§dAsia§r
+tile.beacon.name=§bLyhtykuutio§r
+tile.conduit.name=§bJohdin§r
+tile.jigsaw.name=§dPalapelikuutio§r
+tile.structure_block.name=§dRakennekuutio§r
+tile.command_block.name=§dKomentokuutio§r
+tile.dragon_egg.name=§dLohikäärmeen muna§r
+tile.mob_spawner.name=§dHirviönsynnytin§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

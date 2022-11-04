@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bЗолоте яблуко§r
+item.appleEnchanted.name=§dЗачароване яблуко§r
+item.banner.illager_captain.name=§6Стяг розбійників§r
+item.dragon_breath.name=§eПодих дракона§r
+item.elytra.name=§eНадкрилля§r
+item.end_crystal.name=§bКристал Енду§r
+item.experience_bottle.name=§eПляшечка чар§r
+item.heart_of_the_sea.name=§eСерце моря§r
+item.netherStar.name=§eНезерська зірка§r
+item.record.name=§bМузичний диск§r
+item.skull.char.name=§eГолова§r
+item.skull.creeper.name=§eГолова кріпера§r
+item.skull.dragon.name=§eГолова дракона§r
+item.skull.player.name=§eГолова %s§r
+item.skull.skeleton.name=§eЧереп скелета§r
+item.skull.wither.name=§eЧереп візер-скелета§r
+item.skull.zombie.name=§eГолова зомбі§r
+item.totem.name=§eТотем безсмертя§r
+item.banner_pattern.creeper=§eФігура кріпера§r
+item.banner_pattern.skull=§eФігура черепа§r
+item.banner_pattern.thing=§dШтука§r
+tile.beacon.name=§bМаяк§r
+tile.conduit.name=§bПровідник§r
+tile.jigsaw.name=§dБлок-пазл§r
+tile.structure_block.name=§dСтруктурний блок§r
+tile.command_block.name=§dКомандний блок§r
+tile.dragon_egg.name=§dЯйце дракона§r
+tile.mob_spawner.name=§dРозсадник монстрів§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

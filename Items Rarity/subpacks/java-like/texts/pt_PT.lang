@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bMaçã de Ouro§r
+item.appleEnchanted.name=§dMaçã Encantada§r
+item.banner.illager_captain.name=§6Estandarte de Illager§r
+item.dragon_breath.name=§eBafo de Dragão§r
+item.elytra.name=§eÉlitro§r
+item.end_crystal.name=§bCristal do Fim§r
+item.experience_bottle.name=§eFrasco de Encantamentos§r
+item.heart_of_the_sea.name=§eCoração do Mar§r
+item.netherStar.name=§eEstrela do Nether§r
+item.record.name=§bDisco de Música§r
+item.skull.char.name=§eCabeça§r
+item.skull.creeper.name=§eCabeça de Creeper§r
+item.skull.dragon.name=§eCabeça de Dragão§r
+item.skull.player.name=§eCabeça de %s§r
+item.skull.skeleton.name=§eCaveira de Esqueleto§r
+item.skull.wither.name=§eCaveira do Esqueleto Wither§r
+item.skull.zombie.name=§eCabeça de Morto-Vivo§r
+item.totem.name=§eTotem de Ressuscitação§r
+item.banner_pattern.creeper=§eDivisa de Creeper§r
+item.banner_pattern.skull=§eDivisa de Caveira§r
+item.banner_pattern.thing=§dCoisa§r
+tile.beacon.name=§bSinalizador§r
+tile.conduit.name=§bCanal§r
+tile.jigsaw.name=§dBloco Quebra-Cabeças§r
+tile.structure_block.name=§dBloco de Estrutura§r
+tile.command_block.name=§dBloco de Comando§r
+tile.dragon_egg.name=§dOvo de Dragão§r
+tile.mob_spawner.name=§dGerador de Monstros§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

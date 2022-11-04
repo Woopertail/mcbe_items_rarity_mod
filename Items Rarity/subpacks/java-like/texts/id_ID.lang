@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bApel Emas§r
+item.appleEnchanted.name=§dApel Sihir§r
+item.banner.illager_captain.name=§6Banner Penjahat Yang Diasingkan§r
+item.dragon_breath.name=§eNapas Naga§r
+item.elytra.name=§eSayap Elytra§r
+item.end_crystal.name=§bKristal End§r
+item.experience_bottle.name=§eBotol Sihir§r
+item.heart_of_the_sea.name=§eHati Lautan§r
+item.netherStar.name=§eBintang Nether§r
+item.record.name=§bDisk Musik§r
+item.skull.char.name=§eKepala§r
+item.skull.creeper.name=§eKepala Creeper§r
+item.skull.dragon.name=§eKepala Naga§r
+item.skull.player.name=§eKepala %s§r
+item.skull.skeleton.name=§eKepala Tengkorak§r
+item.skull.wither.name=§eKepala Tengkorak Wither§r
+item.skull.zombie.name=§eKepala Zombie§r
+item.totem.name=§eTotem Tak Mati§r
+item.banner_pattern.creeper=§eCharge Creeper§r
+item.banner_pattern.skull=§eCharge Kepala Tengkorak§r
+item.banner_pattern.thing=§dThing§r
+tile.beacon.name=§bSuar§r
+tile.conduit.name=§bKonduit§r
+tile.jigsaw.name=§dBlok Jigsaw§r
+tile.structure_block.name=§dBlok Struktur§r
+tile.command_block.name=§dBlok Perintah§r
+tile.dragon_egg.name=§dTelur Naga§r
+tile.mob_spawner.name=§dKemunculan Monster§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

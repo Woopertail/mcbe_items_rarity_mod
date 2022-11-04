@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bZlaté jablko§r
+item.appleEnchanted.name=§dKouzelné jablko§r
+item.banner.illager_captain.name=§6Vlajka se zákeřníkem§r
+item.dragon_breath.name=§eDračí dech§r
+item.elytra.name=§eKrovky§r
+item.end_crystal.name=§bEndový krystal§r
+item.experience_bottle.name=§eČarovná láhev§r
+item.heart_of_the_sea.name=§eSrdce moře§r
+item.netherStar.name=§eNetheritová hvězda§r
+item.record.name=§bHudební disk§r
+item.skull.char.name=§eHlava§r
+item.skull.creeper.name=§eHlava plíživce§r
+item.skull.dragon.name=§eHlava draka§r
+item.skull.player.name=§eHlava (%s)§r
+item.skull.skeleton.name=§eLebka kostlivce§r
+item.skull.wither.name=§eLebka pakostlivce§r
+item.skull.zombie.name=§eHlava zombie§r
+item.totem.name=§eTotem nesmrtelnosti§r
+item.banner_pattern.creeper=§eEmblém plíživce§r
+item.banner_pattern.skull=§eEmblém lebky§r
+item.banner_pattern.thing=§dVěc§r
+tile.beacon.name=§bMaják§r
+tile.conduit.name=§bZářič§r
+tile.jigsaw.name=§dSkládací blok§r
+tile.structure_block.name=§dBlok budovy§r
+tile.command_block.name=§dPříkazový blok§r
+tile.dragon_egg.name=§dDračí vejce§r
+tile.mob_spawner.name=§dLíheň nestvůr§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

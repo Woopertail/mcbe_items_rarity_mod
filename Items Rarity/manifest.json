@@ -1,0 +1,49 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§cItems §7R§aa§br§di§et§6y §bv1.2§r",
+        "description": "§rCreated by: §b§lWoopertail\n§rDS: §b§ldiscord.gg/hYtZMEfZSE\n§a§lmcpedl.com/items-rarity",
+        "uuid": "00d80d6a-8512-4b61-97f3-f47a272245dd",
+        "min_engine_version": [
+            1,
+            19,
+            40
+        ],
+        "version": [
+            1,
+            2,
+            0
+        ]
+    },
+
+    "modules": [
+        {
+            "type": "resources",
+            "description": "Texts",
+            "uuid": "1a34b1f0-7f26-4deb-af9c-d34846aa0f75",
+            "version": [
+                1,
+                2,
+                0
+            ]
+        }
+    ],
+
+    "subpacks": [
+        {
+            "folder_name": "all-items",
+            "memory_tier": 0,
+            "name": "\n§6§lAll items.§r\n§3All items and blocks are divided into groups by rarity."
+        },
+        {
+            "folder_name": "java-like",
+            "memory_tier": 0,
+            "name": "\n§6§lJava-like.§r\n§3Items are grouped by rarity, just like in Minecraft: Java Edition."
+        }
+    ],
+
+    "metadata": {
+        "authors": ["Woopertail"],
+        "url": "https://woopertail.ru"
+    }
+}

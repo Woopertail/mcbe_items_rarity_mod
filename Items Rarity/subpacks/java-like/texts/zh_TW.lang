@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§b金蘋果§r
+item.appleEnchanted.name=§d魔法蘋果§r
+item.banner.illager_captain.name=§6厄民旗幟§r
+item.dragon_breath.name=§e龍的吐息§r
+item.elytra.name=§e鞘翅§r
+item.end_crystal.name=§b終界晶體§r
+item.experience_bottle.name=§e經驗藥水瓶§r
+item.heart_of_the_sea.name=§e海洋之心§r
+item.netherStar.name=§e地獄星§r
+item.record.name=§b唱片§r
+item.skull.char.name=§e頭顱§r
+item.skull.creeper.name=§e苦力怕頭顱§r
+item.skull.dragon.name=§e龍頭顱§r
+item.skull.player.name=§e%s 的頭顱§r
+item.skull.skeleton.name=§e骷髏頭顱§r
+item.skull.wither.name=§e凋靈骷髏頭顱§r
+item.skull.zombie.name=§e殭屍頭顱§r
+item.totem.name=§e不死圖騰§r
+item.banner_pattern.creeper=§e苦力怕頭形狀§r
+item.banner_pattern.skull=§e骷髏頭形狀§r
+item.banner_pattern.thing=§dMojang 標誌§r
+tile.beacon.name=§b燈塔§r
+tile.conduit.name=§b導管§r
+tile.jigsaw.name=§d拼圖方塊§r
+tile.structure_block.name=§d結構方塊§r
+tile.command_block.name=§d指令方塊§r
+tile.dragon_egg.name=§d龍蛋§r
+tile.mob_spawner.name=§d怪物產生器§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bZłote jabłko§r
+item.appleEnchanted.name=§dZaczarowane jabłko§r
+item.banner.illager_captain.name=§6Sztandar sadników§r
+item.dragon_breath.name=§eWyziew smoka§r
+item.elytra.name=§eElytry§r
+item.end_crystal.name=§bKryształ Kresu§r
+item.experience_bottle.name=§eZaklęta butelka§r
+item.heart_of_the_sea.name=§eSerce mórz§r
+item.netherStar.name=§eNetherowa gwiazda§r
+item.record.name=§bPłyta muzyczna§r
+item.skull.char.name=§eGłowa§r
+item.skull.creeper.name=§eGłowa creepera§r
+item.skull.dragon.name=§eGłowa smoka§r
+item.skull.player.name=§eGłowa: %s§r
+item.skull.skeleton.name=§eCzaszka szkieletu§r
+item.skull.wither.name=§eCzaszka mrocznego szkieletu§r
+item.skull.zombie.name=§eGłowa zombie§r
+item.totem.name=§eTotem nieśmiertelnych§r
+item.banner_pattern.creeper=§eGłowa creepera§r
+item.banner_pattern.skull=§eSymbol czaszki§r
+item.banner_pattern.thing=§dLogo Mojang§r
+tile.beacon.name=§bMagiczna latarnia§r
+tile.conduit.name=§bPrzekaźnik§r
+tile.jigsaw.name=§dBlok konstrukcyjny§r
+tile.structure_block.name=§dBlok budowli§r
+tile.command_block.name=§dBlok poleceń§r
+tile.dragon_egg.name=§dJajo smoka§r
+tile.mob_spawner.name=§dSpawner potworów§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

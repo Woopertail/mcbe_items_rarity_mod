@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bGulleple§r
+item.appleEnchanted.name=§dFortryllet eple§r
+item.banner.illager_captain.name=§6Ondsbyboer banner§r
+item.dragon_breath.name=§eDragepust§r
+item.elytra.name=§eElytra§r
+item.end_crystal.name=§bSluttkrystall§r
+item.experience_bottle.name=§eFlaske med fortryllelse§r
+item.heart_of_the_sea.name=§eHavets hjerte§r
+item.netherStar.name=§eUnderverdenstjerne§r
+item.record.name=§bMusikkplate§r
+item.skull.char.name=§eHode§r
+item.skull.creeper.name=§eSmygerhode§r
+item.skull.dragon.name=§eDragehode§r
+item.skull.player.name=§e%s sitt hode§r
+item.skull.skeleton.name=§eHodeskalle§r
+item.skull.wither.name=§eWither-hodeskalle§r
+item.skull.zombie.name=§eZombiehode§r
+item.totem.name=§eUdødelighetstotem§r
+item.banner_pattern.creeper=§eSmygerfjes§r
+item.banner_pattern.skull=§eHodeskalle§r
+item.banner_pattern.thing=§dTing§r
+tile.beacon.name=§bLyssignal§r
+tile.conduit.name=§bVannkraftblokk§r
+tile.jigsaw.name=§dPuslespillblokk§r
+tile.structure_block.name=§dByggverksblokk§r
+tile.command_block.name=§dKommandoblokk§r
+tile.dragon_egg.name=§dDrageegg§r
+tile.mob_spawner.name=§dMonstergenerator§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

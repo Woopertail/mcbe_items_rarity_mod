@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§b金のリンゴ§r
+item.appleEnchanted.name=§dエンチャントされたリンゴ§r
+item.banner.illager_captain.name=§6邪悪な村人の旗§r
+item.dragon_breath.name=§eドラゴンの息§r
+item.elytra.name=§eエリトラ§r
+item.end_crystal.name=§b果てのクリスタル§r
+item.experience_bottle.name=§eエンチャントのビン§r
+item.heart_of_the_sea.name=§e海の中心§r
+item.netherStar.name=§eネザースター§r
+item.record.name=§b音楽ディスク§r
+item.skull.char.name=§eヘッド§r
+item.skull.creeper.name=§eクリーパー ヘッド§r
+item.skull.dragon.name=§eドラゴンの頭§r
+item.skull.player.name=§e%sのヘッド§r
+item.skull.skeleton.name=§eスケルトンの頭§r
+item.skull.wither.name=§eウィザー スケルトンの頭§r
+item.skull.zombie.name=§eゾンビの頭§r
+item.totem.name=§e不死のトーテム§r
+item.banner_pattern.creeper=§eクリーパー模様§r
+item.banner_pattern.skull=§e骸骨模様§r
+item.banner_pattern.thing=§d何かの模様§r
+tile.beacon.name=§bビーコン§r
+tile.conduit.name=§bコンジット§r
+tile.jigsaw.name=§dジグソー ブロック§r
+tile.structure_block.name=§dストラクチャー ブロック§r
+tile.command_block.name=§dコマンドブロック§r
+tile.dragon_egg.name=§dドラゴンの卵§r
+tile.mob_spawner.name=§dモンスター スポーナー§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

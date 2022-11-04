@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bAltın Elma§r
+item.appleEnchanted.name=§dBüyülü Elma§r
+item.banner.illager_captain.name=§6Serseri Köylü Flaması§r
+item.dragon_breath.name=§eEjderha Nefesi§r
+item.elytra.name=§eElytra§r
+item.end_crystal.name=§bEnd Kristali§r
+item.experience_bottle.name=§eBüyü Şişesi§r
+item.heart_of_the_sea.name=§eDenizin Kalbi§r
+item.netherStar.name=§eNether Yıldızı§r
+item.record.name=§bMüzik Diski§r
+item.skull.char.name=§eKafa§r
+item.skull.creeper.name=§eCreeper Kafası§r
+item.skull.dragon.name=§eEjderha Kafası§r
+item.skull.player.name=§e%s Kafası§r
+item.skull.skeleton.name=§eİskelet Kafatası§r
+item.skull.wither.name=§eWither İskelet Kafatası§r
+item.skull.zombie.name=§eZombi Kafası§r
+item.totem.name=§eÖlümsüzlük Totemi§r
+item.banner_pattern.creeper=§eCreeper Şekli§r
+item.banner_pattern.skull=§eKurukafa Şekli§r
+item.banner_pattern.thing=§dŞey§r
+tile.beacon.name=§bİşaret Işığı§r
+tile.conduit.name=§bKanal§r
+tile.jigsaw.name=§dYapboz Blok§r
+tile.structure_block.name=§dYapı Bloku§r
+tile.command_block.name=§dKomut Bloku§r
+tile.dragon_egg.name=§dEjderha Yumurtası§r
+tile.mob_spawner.name=§dCanavar Canlandırıcı§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

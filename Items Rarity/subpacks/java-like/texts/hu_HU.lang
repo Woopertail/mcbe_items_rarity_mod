@@ -1,0 +1,36 @@
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+item.golden_apple.name=§bAranyalma§r
+item.appleEnchanted.name=§dBűvös alma§r
+item.banner.illager_captain.name=§6Illager-bestia lobogó§r
+item.dragon_breath.name=§eSárkánylehelet§r
+item.elytra.name=§eElytra§r
+item.end_crystal.name=§bVég-kristály§r
+item.experience_bottle.name=§eTapasztalatpalack§r
+item.heart_of_the_sea.name=§eA tenger szíve§r
+item.netherStar.name=§eAlvilági csillag§r
+item.record.name=§bHanglemez§r
+item.skull.char.name=§eFej§r
+item.skull.creeper.name=§eCreeper-fej§r
+item.skull.dragon.name=§eSárkányfej§r
+item.skull.player.name=§e%s feje§r
+item.skull.skeleton.name=§eCsontvázkoponya§r
+item.skull.wither.name=§eSorvasztócsontváz-koponya§r
+item.skull.zombie.name=§eZombifej§r
+item.totem.name=§eHalhatatlanság toteme§r
+item.banner_pattern.creeper=§eCreeper-roham§r
+item.banner_pattern.skull=§eKoponyaroham§r
+item.banner_pattern.thing=§dDolog§r
+tile.beacon.name=§bJelzőfény§r
+tile.conduit.name=§bVízenergiablokk§r
+tile.jigsaw.name=§dKirakósblokk§r
+tile.structure_block.name=§dSzerkezeti blokk§r
+tile.command_block.name=§dParancsblokk§r
+tile.dragon_egg.name=§dSárkánytojás§r
+tile.mob_spawner.name=§dSzörnyidéző§r
+
+
+
+## Items Rarity © 2022 by Woopertail is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
